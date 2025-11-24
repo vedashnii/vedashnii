@@ -1,7 +1,7 @@
 <!--Pixelated curtains-->
 # Hello!
 ### 🕯️ About Me
-<img src="/abt.gif" alt="About Me" />
+<!-- <img src="/abt.gif" alt="About Me" /> -->
 
 <!-- social media -->
 
