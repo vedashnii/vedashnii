@@ -1,18 +1,16 @@
 <!--Pixelated curtains-->
 # Hello!
-### 🕯️ ** About Me **
+### ** 🕯️ About Me **
+<img src="/abt.gif" alt="About Me" />
+
 <!-- social media -->
 
 I'm interested in human-centered design, climate tech, and responsible AI policy. My strengths are design, data analytics, and front-end development. I love to make visualizations and pore over fonts and color.
 
 🎓 Data Science and Cognitive Science at UC Berkeley
 
-Skills!
+## Skills!
 <!-- images of each or smthg like that, lowk would be great to have a pixel thing going-->
-<img src="/Artboard 1git.png" alt="Python" />
-<img src="/Artboard 1html.png" alt="HTML" />
-<img src="/Artboard 1cssc.png" alt="CSS" />
-<img src="/Artboard 1ill.png" alt="Illustrator" />
 
 
 <!--
