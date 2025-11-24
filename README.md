@@ -9,10 +9,11 @@ I'm interested in human-centered design, climate tech, and responsible AI policy
 
 Skills!
 <!-- images of each or smthg like that, lowk would be great to have a pixel thing going-->
+<img src="/Artboard 1git.png" alt="Python" />
+<img src="/Artboard 1html.png" alt="HTML" />
+<img src="/Artboard 1cssc.png" alt="CSS" />
+<img src="/Artboard 1ill.png" alt="Illustrator" />
 
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=vedashnii"
-/>
 
 <!--
 **vedashnii/vedashnii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
